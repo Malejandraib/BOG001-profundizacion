@@ -34,7 +34,7 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
 | Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Revisar temas de estilos (teoria) |Revisar Node | 
-| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Seguir con el curso de FrontEndMaster | Revisar MDlinks | 
+| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Seguir con el curso de FrontEndMaster | Revisar MDlinks y la implementación de Node. | 
 |  | Planear el ejercicio de css para el repo | Hacer ejercicios de CSS + Grid | Empezar a revisar Node |  |
 
 
