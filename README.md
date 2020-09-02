@@ -9,22 +9,17 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqueantes, trata de no elegir demasiados para poder planear y dedicarle el tiempo necesario a cada uno.
 
 ----
-
-#### JavaScript
-    
-- [ ] Promesas:
-    - Actividades a desarrollar:
-        * Asistir a charla con Lupo sobre promesas (02/09)
-        * Apoyar a un equipo 
-    - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
-
+#### CSS
+- [ ] [Elementos, clases y selectores de CSS] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+- [ ] [Grid!]  (https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
+        *Actividad Final: Algún ejercicio lindo para el [repo.]!(https://github.com/dapino/daily-js)  
+        
 #### Test
+- [ ] Objetivo de aprendizaje pendiente de testing con Mocks 
     
-- [ ] Mocks con librerías y manuales:
-    - Actividades a desarrollar:
-        * Realizar test SN
-    - Actividad final: Lightning Talk sobre mocks con librerías. 
-    
+#### JavaScript
+- [ ] Preparación para MDLinks [Node!]  (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
 ----
 
 
@@ -33,9 +28,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Actividad | Actividad | Actividad | Actividad | Actividad | 
-| Otra actividad | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
-| Otra más | Otra más | Otra más | Otra más | Otra más |
+| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Actividad | Actividad | 
+| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Otra actividad | Otra actividad | 
+|  | Planear el ejercicio de css para el repo | Otra más | Otra más | Otra más |
 
 
 ## Recursos
