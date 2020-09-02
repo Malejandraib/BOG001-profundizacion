@@ -12,21 +12,17 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 #### CSS
 
 - [ ] Mejorar habilidades en CSS :
-      -Actividades:
-            - Consultar LMS sobre CSS.
-            - [Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
-            
-- [ ] [Grid!](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY).
-        
+    - Actividades:
+        * Consultar LMS sobre CSS.
+        * Elementos, clases y selectores de CSS.
+        * Grid!
+
     - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js). 
         
-#### Test
-
-- [ ] Objetivo de aprendizaje pendiente de testing con Mocks 
     
 #### JavaScript
 
-- [ ] Preparación para MDLinks [Node!](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [ ] Preparación para MDLinks 
 
 ----
 
@@ -36,12 +32,19 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Actividad | Actividad | 
+| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Empezar a revisar Node | Revisar MDlinks | 
 | Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Otra actividad | Otra actividad | 
-|  | Planear el ejercicio de css para el repo | Otra más | Otra más | Otra más |
+|  | Planear el ejercicio de css para el repo | Hacer ejercicios de CSS + Grid | Otra más | Otra más |
 
 
 ## Recursos
+
+[Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
+
+[Node!](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+[Grid!](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY).
+
 [Registro de objetivos de aprendizaje por proyecto](https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=502701538)
 
 [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
