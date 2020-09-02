@@ -12,10 +12,13 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 #### CSS
 
 - [ ] Mejorar habilidades en CSS :
-       *Consultar LMS sobre CSS
-       * [Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-- [ ] [Grid!](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
-        *Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js)  
+      -Actividades:
+            - Consultar LMS sobre CSS.
+            - [Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
+            
+- [ ] [Grid!](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY).
+        
+    - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js). 
         
 #### Test
 
