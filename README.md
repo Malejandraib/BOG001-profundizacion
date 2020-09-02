@@ -10,15 +10,18 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 ----
 #### CSS
-- [ ] [Elementos, clases y selectores de CSS] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-- [ ] [Grid!]  (https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
-        *Actividad Final: Algún ejercicio lindo para el [repo.]!(https://github.com/dapino/daily-js)  
+
+-[ ] -[Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+-[ ] -[Grid!](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
+        *Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js)  
         
 #### Test
+
 - [ ] Objetivo de aprendizaje pendiente de testing con Mocks 
     
 #### JavaScript
-- [ ] Preparación para MDLinks [Node!]  (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+- [ ] Preparación para MDLinks [Node!](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 ----
 
