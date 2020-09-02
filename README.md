@@ -16,8 +16,9 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
         * Consultar LMS sobre CSS.
         * Elementos, clases y selectores de CSS.
         * Grid!
+        * Revisar temas de estilos del curso que recomendo Aleja!
 
-    - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js). 
+    - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js) con Pau. 
         
     
 #### JavaScript
@@ -32,14 +33,16 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Empezar a revisar Node | Revisar MDlinks | 
-| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Otra actividad | Otra actividad | 
-|  | Planear el ejercicio de css para el repo | Hacer ejercicios de CSS + Grid | Otra más | Otra más |
+| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! | Revisar temas de estilos (teoria) |Revisar Node | 
+| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar y estudiar grid! | Seguir con el curso de FrontEndMaster | Revisar MDlinks | 
+|  | Planear el ejercicio de css para el repo | Hacer ejercicios de CSS + Grid | Empezar a revisar Node |  |
 
 
 ## Recursos
 
 [Elementos, clases y selectores de CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G).
+
+[Curso recomendado](https://frontendmasters.com/courses/design-for-developers/).
 
 [Node!](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
