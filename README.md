@@ -19,14 +19,16 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
         * Revisar temas de diseño.
 
     - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js) con Pau. 
-    
-#### Git y github
-
--[ ] Organización en Github (projects | issues | labels | milestones | tags)
 
 #### Web API
 
 - [ ] [localStorage.](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage).
+
+#### Git y github
+
+- [ ] Organización en Github (projects | issues | labels | milestones | tags)
+
+
 
 #### JavaScript
 
@@ -42,7 +44,7 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
 | Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! |Mirar como funciona en github |Revisar Node | 
-| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar temas de estilos y FrontEndMaster | Vamos a ver que es local Storage! | Revisar MDlinks y la implementación de Node. | 
+| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar temas de estilos y FrontEndMaster | Vamos a ver que es local Storage y como usarlo! | Revisar MDlinks y la implementación de Node. | 
 |  | Planear el ejercicio de css para el repo | Revisar como funcinan esos temas de Git | |  |
 
 
