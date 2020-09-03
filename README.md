@@ -43,9 +43,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Intro de la semana de profundización | Actualización del readme | Continuar el desarrollo del ejercicio team con Pau! |...y para qué sirve todo eso en github |Revisar Node | 
-| Selección de temas para la semana | Revisar tutorial de basic css  | Revisar temas de estilos y FrontEndMaster | Vamos a ver que es local Storage y como usarlo! | Revisar MDlinks y la implementación de Node. | 
-|  | Planear el ejercicio de css para el repo |Mirar como funciona todo eso en github| |  |
+| Intro de la semana de profundización | Actualización del readme | Revisar todo lo que más pueda sobre CSS. |Mirar como funciona todo eso en github|Revisar Node | 
+| Selección de temas para la semana | Revisar tutorial de basic css  |Continuar el desarrollo de algún ejercicio de CSS. | ...y para qué sirve todo eso en github  | Revisar MDlinks y la implementación de Node. | 
+|  | Planear el ejercicio de css para el repo |Revisar temas de estilos y FrontEndMaster |Vamos a ver que es local Storage y como usarlo! |  |
 
 
 ## Recursos
