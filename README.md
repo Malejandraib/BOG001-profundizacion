@@ -13,22 +13,20 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 - [ ] Mejorar habilidades en CSS :
     - Actividades:
-        * Consultar LMS sobre CSS.
-        * Elementos, clases y selectores de CSS.
-        * Grid!
-        * Revisar temas de diseño.
+       - [x] * Consultar LMS sobre CSS.
+       - [x] * Elementos, clases y selectores de CSS.
+       - [ ] * Grid!
+       - [x] * Revisar temas de diseño.
 
     - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js) con Pau. 
 
 #### Web API
 
-- [ ] [localStorage.](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage).
+- [x] [localStorage.](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage).
 
-#### Git y github
+#### Testing
 
-- [ ] Organización en Github (projects | issues | labels | milestones | tags)
-
-
+- [x] intento de TDD con Lupe!
 
 #### JavaScript
 
@@ -43,9 +41,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Intro de la semana de profundización | Actualización del readme | Revisar todo lo que más pueda sobre CSS. |Mirar como funciona todo eso en github|Revisar Node | 
-| Selección de temas para la semana | Revisar tutorial de basic css  |Continuar el desarrollo de algún ejercicio de CSS. | ...y para qué sirve todo eso en github  | Revisar MDlinks y la implementación de Node. | 
-|  | Planear el ejercicio de css para el repo |Revisar temas de estilos y FrontEndMaster |Vamos a ver que es local Storage y como usarlo! |  |
+| Intro de la semana de profundización | Actualización del readme | Revisar todo lo que más pueda sobre CSS. |Testing, testeo unitario|Testing de promesas| 
+| Selección de temas para la semana | Revisar tutorial de basic css  |Continuar el desarrollo de algún ejercicio de CSS. | ...testeo asincrono |Revisar Node | 
+|  | Planear el ejercicio de css para el repo |Revisar temas de estilos y FrontEndMaster |Vamos a ver que es local Storage y como usarlo! |Revisar MDlinks y la implementación de Node.  |
 
 
 ## Recursos
