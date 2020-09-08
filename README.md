@@ -40,7 +40,7 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Intro de la semana de profundización | Actualización del readme | Revisar todo lo que más pueda sobre CSS. |Testing, testeo unitario|Testing de promesas, ejercicio de todas en el grupo de SP semana 2, para el repo!| 
+| Intro de la semana de profundización | Actualización del readme | Revisar todo lo que más pueda sobre CSS. |Testing, testeo unitario|Testing de promesas, ejercicio de todas SP semana 2, para el repo!| 
 | Selección de temas para la semana | Revisar tutorial de basic css  |Continuar el desarrollo de algún ejercicio de CSS. | ...testeo asincrono |Revisar Node | 
 |  | Planear el ejercicio de css para el repo |Revisar temas de estilos y FrontEndMaster |Vamos a ver que es local Storage y como usarlo! |Revisar MDlinks y la implementación de Node.  |
 
