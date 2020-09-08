@@ -60,4 +60,5 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
 
 [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
+[Doc de preguntas con LUPE!](https://docs.google.com/document/d/1ILowkLSNyuTuykwXH3_84h0bI2KOBb13Y8aHnBwiFPk/edit#)
 
