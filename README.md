@@ -18,8 +18,6 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
        - [ ] * Grid!
        - [x] * Revisar temas de diseño.
 
-    - Actividad Final: Algún ejercicio lindo para el [repo.](https://github.com/dapino/daily-js) con Pau. 
-
 #### Web API
 
 - [x] [localStorage.](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage).
@@ -27,6 +25,7 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 #### Testing
 
 - [x] intento de TDD con Lupe!
+- Actividad Final: Algún ejercicio para el [repo.](https://github.com/dapino/daily-js).
 
 #### JavaScript
 
